@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6599258-b257-4028-aa45-c7b225ba87fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1061efef-e8dc-47eb-aeea-551c53681663">
+    <option name="files">
+      <option value="Titanic.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwHiUw4xcEuNrKU61zRVzYdkI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6599258-b257-4028-aa45-c7b225ba87fd" name="Default Changelist" comment="" />
+      <created>1581950363162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581950363162</updated>
+      <workItem from="1581950364353" duration="1692000" />
+      <workItem from="1581952077053" duration="1137000" />
+      <workItem from="1581953413092" duration="230000" />
+      <workItem from="1581953667972" duration="1757000" />
+      <workItem from="1581961305735" duration="1687000" />
+      <workItem from="1581974581249" duration="2736000" />
+      <workItem from="1582083597950" duration="2035000" />
+      <workItem from="1582086259788" duration="905000" />
+      <workItem from="1582170006110" duration="1263000" />
+      <workItem from="1582172111413" duration="2024000" />
+      <workItem from="1582297407672" duration="2269000" />
+      <workItem from="1582301671889" duration="8860000" />
+      <workItem from="1582314201141" duration="1727000" />
+      <workItem from="1582326725278" duration="446000" />
+      <workItem from="1582327898247" duration="1144000" />
+      <workItem from="1582329495762" duration="628000" />
+      <workItem from="1582330350385" duration="1411000" />
+      <workItem from="1582332091460" duration="3984000" />
+      <workItem from="1582338070740" duration="237000" />
+      <workItem from="1582339088279" duration="574000" />
+      <workItem from="1582341331264" duration="1419000" />
+      <workItem from="1582343558571" duration="984000" />
+      <workItem from="1582345537295" duration="1662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2381" y="217" key="#Deployment" timestamp="1581978712947">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2381" y="217" key="#Deployment/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1581978712947" />
+    <state x="2286" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581954044918">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2286" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1581954044918" />
+    <state x="2886" y="284" key="FileChooserDialogImpl" timestamp="1582084744298">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2886" y="284" key="FileChooserDialogImpl/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1582084744298" />
+    <state width="698" height="230" key="GridCell.Tab.0.bottom" timestamp="1582348310880">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="698" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582348310880" />
+    <state width="876" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1582172293315" />
+    <state width="698" height="230" key="GridCell.Tab.0.center" timestamp="1582348310879">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="698" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582348310879" />
+    <state width="876" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1582172293314" />
+    <state width="698" height="230" key="GridCell.Tab.0.left" timestamp="1582348310879">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="698" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582348310879" />
+    <state width="876" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1582172293314" />
+    <state width="698" height="230" key="GridCell.Tab.0.right" timestamp="1582348310880">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="698" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582348310880" />
+    <state width="876" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1582172293315" />
+    <state x="2607" y="161" key="SettingsEditor" timestamp="1582085213850">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2607" y="161" key="SettingsEditor/0.23.1920.1057/1920.23.1920.1057@1920.23.1920.1057" timestamp="1582085213850" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Titanic.ipynb</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
